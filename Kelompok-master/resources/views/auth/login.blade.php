@@ -22,7 +22,7 @@
   <body style="background: #2A3F54;font-family: 'Roboto Condensed';"  id="fakeLoader">
     <div style="text-align: center;margin-top: 100px">
       <div class="col-lg-12">
-        <h1 style="text-align: center;margin-bottom: 30px;color:#ffffff">Informasi Klinik BUNDA</h1>
+        <h1 style="text-align: center;margin-bottom: 30px;color:#ffffff">HEALTY CARE</h1>
         @include('layouts.alert')
         <a data-toggle="modal" href='#modal-resepsionist'><img src="{{URL::to('images/resepsionis.png')}}"></a>
         <a data-toggle="modal" href='#modal-dokter'><img src="{{URL::to('images/dokter.png')}}"></a>
